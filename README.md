@@ -1,39 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to QuantumLang
 
-🚀 🐼
+Quantum mechanics is the key for us to explore the nature of microscopic world. With greatly enhanced computation
+hardware and gradually matured quantum simulation softwares, we are capable of simulating hundreds and thousands of atoms within
+a reasonably amount of time. Among all these simulations, a large number of them is devoted to study ground state properties of
+a quantum system, e.g. bonding energy and equilibrium geometry of a given molecule. 
 
-You can use the [editor on GitHub](https://github.com/pmarsceill/test-jtd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+With the advent of deep learning these days, a trend to use fully variational method has emerged in various fields. Since variational
+principle is embeded in quantum mechanics, we would like to utilize it's power in computation. QuantumLang is designed for this, it
+implememnts a framework that allows you to write quantum mechanics code that can be differentiate by the state of the art automatic
+differentiation engine, thus, evaluating gradients no longer takes your time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmarsceill/test-jtd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**NOTE: THIS PROJECT IS NOT COMPLETED YET !!!**
